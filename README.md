@@ -15,7 +15,7 @@
 > **Python**
 <br>
 
-### 역할
+### 역할(팀장)
 > **EDA, Data Prerprocessing, Modeling, 보고서 작성**
 <br>
 
